@@ -199,7 +199,7 @@ If you encounter any issues or have questions:
 
 **⭐ Star this repository if you found it helpful!**
 
-**🔗 [Live Demo](https://jatingoyal14.github.io/Realtime-Polling-System/)** | **📚 [Documentation](./docs)** | **🐛 [Report Bug](./issues)**
+**🔗 [Live Demo](https://jatingoyal14.github.io/Poll-Hub/)** | **📚 [Documentation](./docs)** | **🐛 [Report Bug](./issues)**
 
 ---
 
